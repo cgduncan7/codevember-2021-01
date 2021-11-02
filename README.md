@@ -1,5 +1,5 @@
-# codevember-2019-xx
-codevember-xx // 2019.11.xx // xx
+# codevember-2021-01
+codevember-01 // 2021.11.01 // inane
 
 30 days, 30 creative experiments. CodeVember is a challenge for developers creating a creative sketch by day during the whole month of November.
 
