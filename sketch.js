@@ -37,7 +37,6 @@ var s = function(sketch) {
           y < -50 || y > sketch.height + 50
         ) {
           inaneThoughts.splice(i, 1)
-          console.log(inaneThoughts.length)
         } else {
           it.draw(sketch)
         }
